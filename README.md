@@ -2,7 +2,6 @@
 # Hi, I'm Aseel Abu Rabie 👋
 
 🤖 AI Engineer | Data Analyst & Visualization Specialist  
-📍 Palestine
 
 I turn raw data into clear, actionable insights using dashboards, statistical analysis, and machine learning.
 
@@ -59,6 +58,6 @@ I turn raw data into clear, actionable insights using dashboards, statistical an
 
 ## 📫 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/aseel-aburabie-1bb705254?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
-- Email: aseel.200469asol@gmail.com
+- Email: aseel.aburabie@gmail.com
 
 -->
